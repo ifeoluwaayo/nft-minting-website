@@ -1,0 +1,13 @@
+{
+  "name": "nft-minting-website",
+  "version": "0.0.1",
+  "description": "Generate an NFT collection and mint NFTs",
+  "scripts": {
+    
+  },
+  "author": "Jesse Hall (codeSTACKr)",
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
