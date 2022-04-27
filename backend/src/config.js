@@ -38,7 +38,7 @@ const format = {
 };
 
 const extraMetadata = {
-	external_url: "https://fomodogz.netlify.com", // Replace with your website or remove this line if you do not have one.
+	external_url: "https://nft-minting-website.netlify.app/", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
@@ -65,7 +65,8 @@ const PUBLIC_MINT_START_DATE = "2022-05-20T11:30:48+00:00"; // This is required.
 const PRESALE_MINT_START_DATE = "2022-04-26T11:30:48+00:00"; // Optional. Eg: 2022-02-08T11:30:48+00:00
 const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the royalty address. 100 bps = 1%
 const ROYALTY_ADDRESS = "0x581251Be14e4d57ccb9C78bBD38c3ECeF4b894b7"; // Address that will receive the royalty
-const BASE_URI = null; // only update if you want to manually set the base uri
+const BASE_URI =
+	"ipfs://bafybeiaaanif4zcno3buqs3rwhzvvobpyncoe52jyvouee3xqbhxtsxawq/"; // only update if you want to manually set the base uri
 const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the prereveal token uri
 const PRESALE_WHITELISTED_ADDRESSES = [
 	"0x581251Be14e4d57ccb9C78bBD38c3ECeF4b894b7",
