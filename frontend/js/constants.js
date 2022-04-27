@@ -1,10 +1,11 @@
 const contractAddress = "0x27F5DcB0b6E04f980cd6CA4e4b08D65c1e4178bc"; //Replace with your own contract address
 const chain = "rinkeby"; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 =
+	"Welcome to the FOMODOGZ NFT Project (a test nft minting site by Adelaja Ayomide)!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p =
-	'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+	"The FOMODOGZ NFT Project is a test nft minting site by Adelaja Ayomide. This site is not affiliated with FOMODOGZ.net or any of its affiliates.";
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
